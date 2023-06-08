@@ -27,9 +27,9 @@ https://github.com/jb1756/LetsgetNoteTaking
 
 # Images
 
-![Home](public\assets\images\Note Taker_Start.png)
+![Home](https://github.com/jb1756/LetsgetNoteTaking/blob/7b424d8cf072b77218b1a2df328022bbe7d1bd01/public/assets/images/Note%20Taker_Start.png)
 
-![Notes](public\assets\images\Noted.png)
+![Notes](https://github.com/jb1756/LetsgetNoteTaking/blob/7b424d8cf072b77218b1a2df328022bbe7d1bd01/public/assets/images/Noted.png)
 
 # Heroku Deployment
 
