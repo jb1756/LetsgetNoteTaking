@@ -33,4 +33,4 @@ https://github.com/jb1756/LetsgetNoteTaking
 
 # Heroku Deployment
 
-Link -
+Link - https://tranquil-springs-48746.herokuapp.com/
